@@ -24,8 +24,6 @@ pkgbase = guayadeque-git
 	provides = guayadeque
 	conflicts = guayadeque
 	source = git+https://github.com/openmonk/guayadeque.git
-	source = wxwidgets.patch
 	sha512sums = SKIP
-	sha512sums = bdf0de22543b1c0db7e5619e4740ef7976bdc4f4428e7413824dce585ccc51b99af747ccacb5c9da931706b176f93f80c8f4669c9b0acd3b158974b3b0b6be10
 
 pkgname = guayadeque-git
