@@ -18,7 +18,7 @@ optdepends=('gst-plugins-good: Support for PulseAudio and additional file format
             'gst-plugins-ugly: Support for additional file formats'
             'gst-libav: Support for additional file formats'
             'gvfs: Support for external devices')
-source=('git+https://github.com/anonbeat/guayadeque.git'
+source=('git+https://github.com/openmonk/guayadeque.git'
         'wxwidgets.patch')
 sha512sums=('SKIP'
             'bdf0de22543b1c0db7e5619e4740ef7976bdc4f4428e7413824dce585ccc51b99af747ccacb5c9da931706b176f93f80c8f4669c9b0acd3b158974b3b0b6be10')
